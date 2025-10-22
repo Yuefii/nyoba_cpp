@@ -8,7 +8,7 @@ fi
 filename=$(basename "$1" .cpp)
 output="./build/${filename}"
 
-echo "compiling $1 ..."
+echo "run compiling $1 ..."
 g++ "$1" -o "$output"
 
 if [ $? -ne 0 ]; then
@@ -16,7 +16,7 @@ if [ $? -ne 0 ]; then
   exit 1
 fi 
 
-echo "running ${filename} ..."
+echo "lets running program ${filename} ..."
 echo "----------------------------"
 "$output"
 echo "----------------------------"
