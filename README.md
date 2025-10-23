@@ -1,0 +1,53 @@
+# C++ Basic Concepts
+
+This repository contains a collection of my learn C++ code examples covering basic concepts.
+
+## Table of Contents
+
+- [Hello](./src/basic/hello.cpp)
+- [Konstan Literal](./src/basic/konstan_literal.cpp)
+- [Variabel Tipe Data](./src/basic/variabel_tipe_data.cpp)
+- [Bilangan Numerik](./src/basic/bilangan_numerik.cpp)
+- [Tipe Data Karakter](./src/basic/tipe_data_karakter.cpp)
+- [Tipe Data Boolean](./src/basic/tipe_data_boolean.cpp)
+- [Multi Variabel](./src/basic/multi_variabel.cpp)
+- [Dasar Input Output](./src/basic/dasar_input_output.cpp)
+- [Modifikasi Tipe Data](./src/basic/modifikasi_tipe_data.cpp)
+- [Operator](./src/basic/operator.cpp)
+- [If Statement](./src/basic/if_statement.cpp)
+- [Nested If](./src/basic/nested_if.cpp)
+- [Switch Statement](./src/basic/switch_statement.cpp)
+- [For Looping](./src/basic/for_looping.cpp)
+- [Do While Looping](./src/basic/dowhile_looping.cpp)
+- [While Looping](./src/basic/while_looping.cpp)
+- [Goto Statement](./src/basic/goto_statement.cpp)
+- [Strings](./src/basic/strings.cpp)
+- [Komparasi String](./src/basic/komparasi_string.cpp)
+- [Array](./src/basic/array.cpp)
+- [Function](./src/basic/function.cpp)
+
+- [Struct](./src/basic/struct.cpp)
+- [Union](./src/basic/union.cpp)
+- [Pointer](./src/basic/pointer.cpp)
+- [Pointer Deferencing](./src/basic/pointer_deferencing.cpp)
+- [Modifikasi Pointer](./src/basic/modifikasi_pointer.cpp)
+- [Aritmatika Pointer](./src/basic/aritmatika_pointer.cpp)
+- [Pointer To Pointer](./src/basic/pointer_to_pointer.cpp)
+- [Passing Pointer](./src/basic/passing_pointer.cpp)
+- [Return Pointer](./src/basic/return_pointer.cpp)
+- [Class and Object](./src/basic/class_and_object.cpp)
+- [Constructor](./src/basic/constructor.cpp)
+- [Destructor](./src/basic/destructor.cpp)
+- [Class Member Function](./src/basic/class_member_function.cpp)
+- [Akses Modifikasi Class](./src/basic/akses_modifikasi_class.cpp)
+- [Function Inline](./src/basic/function_inline.cpp)
+- [Pointer To Class](./src/basic/pointer_to_class.cpp)
+- [Pointer This](./src/basic/pointer_this.cpp)
+- [Static Member](./src/basic/static_member.cpp)
+
+
+
+
+
+
+
