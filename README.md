@@ -45,9 +45,8 @@ This repository contains a collection of my learn C++ code examples covering bas
 - [Pointer This](./src/basic/pointer_this.cpp)
 - [Static Member](./src/basic/static_member.cpp)
 
-
-
-
-
-
+- [Inheritance](./src/basic/inheritance.cpp)
+- [Public Inheritance](./src/basic/public_inheritance.cpp)
+- [Protected Inheritance](./src/basic/protected_inheritance.cpp)
+- [Private Inheritance](./src/basic/private_inheritance.cpp)
 
